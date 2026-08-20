@@ -14,6 +14,9 @@
   <a href="https://www.instagram.com/murilosilva.dev_">
     <img src="https://img.shields.io/badge/Instagram-@MURILOSILVA.DEV-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/murilo-silva-77ba56293/">
+    <img src="https://img.shields.io/badge/LinkedIn-@MURILOSILVA-0099FF?style=for-the-badge&logo=inspire&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -32,6 +35,15 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=murilosilvadevtech&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloSilvaDevTech&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
