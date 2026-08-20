@@ -26,17 +26,19 @@
 ### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-D74910?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### DevOps & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=)
 
 ---
+
 
 ## 🍃 Philosophy
 
