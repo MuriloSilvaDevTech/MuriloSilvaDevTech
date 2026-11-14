@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou Murilo Silva
 
-🚀 **Devenvolvedor BackEnd | Java**  
+🚀 **Devenvolvedor BackEnd | Java - Python**  
 🇧🇷 Brazil
 
 ---
